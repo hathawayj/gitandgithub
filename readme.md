@@ -1,6 +1,6 @@
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician. [Josh Wills](https://twitter.com/josh_wills/status/198093512149958656?s=20)
 
-The Darkside of that quote is real!  Data scientists don't program as well as software engineers.  Data scientists are also reasonably soft when it comes to understanding the larger field of statistical analysis. We can improve over time. However, our domain structure often demands that we don't specialize in the technical areas as we are often scaling up in other domains. If we did specialize, then we would be called statisticians or software engineers.
+The Darkside of that quote is real!  Data scientists don't program as well as software engineers.  Data scientists are also reasonably soft when it comes to understanding the larger field of statistical analysis. We can improve over time. However, our domain structure often demands that we don't specialize in the technical areas as we often scale up in other domains. If we did specialize, then we would be called statisticians or software engineers.
 
 ## My school/professional journey
 
@@ -19,20 +19,29 @@ __Github!__
 
 ![](data_programming.png)
 
-> It is no exaggeration to say that git (and other forms of version control software) underlie the entire world of open source software, and are central to the operation of nearly every tech company on the planet. ... OK, now the bad news: learning git kinda sucks. I mean, it’s not painful like performing an appendectomy on yourself without anesthesia, and it’s not hard like quantum mechanics or geometric topology; it’s definitely something anyone can learn. [ref](https://www.practicaldatascience.org/html/git_and_github.html)
+> It is no exaggeration to say that git (and other forms of version control software) underlie the entire world of open-source software, and are central to the operation of nearly every tech company on the planet. ... OK, now the bad news: learning git kinda sucks. I mean, it’s not painful like performing an appendectomy on yourself without anesthesia, and it’s not hard like quantum mechanics or geometric topology; it’s definitely something anyone can learn. [ref](https://www.practicaldatascience.org/html/git_and_github.html)
 
 ![](https://imgs.xkcd.com/comics/git.png)
 
+
+![](https://blog.devmountain.com/hs-fs/hubfs/Imported_Blog_Media/Gitvs_Github-1a-1.jpg?width=600&name=Gitvs_Github-1a-1.jpg)
+
 ### Git
 
+- [Download Git](https://git-scm.com/)
+- [Getting the git workflow](https://rogerdudler.github.io/git-guide/)
+
+![](https://miro.medium.com/max/1400/1*E4povWZ5H-K3OaguFQJ0IQ.png)
 
 ### Github
 
-__Make sure you realize that GitHub is key to your employment as a Data Scientist.__
+__GitHub is key to your employment as a Data Scientist.__
+
+- [Join Github](https://github.com/join)
 
 > This is GitHub, the world’s largest code repository platform online. A platform used by some 50 million software developers to host their coding projects, most of them open-source — meaning others can access their codes and modify them to create better versions if they feel like.
 
-> Most of the internet is produced or hosted on GitHub in the form of code. “What Gmail is to email, GitHub is to writing software,” says Kiran Jonnalagadda, cofounder of HasGeek, a platform to build and discover peer groups.
+> Most of the internet is produced or hosted on GitHub in the form of code. “What Gmail is to email, GitHub is to writing software,” says Kiran Jonnalagadda, co-founder of HasGeek, a platform to build and discover peer groups.
 
 Read more [here](https://economictimes.indiatimes.com/internet/inside-github-web-developers-social-media-platform/articleshow/77096752.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst).
 
@@ -40,7 +49,7 @@ Read more [here](https://economictimes.indiatimes.com/internet/inside-github-web
 
 _It signals that you are a programmer as well as an analyst._
 
-> Github is our version control and we have everything on Github. Definitely having strong git experience is very helpful. The way my team is using it is through forking. We fork the main file and then pull from and to it to update the code.
+> Github is our version control, and we have everything on Github. Definitely having strong git experience is very helpful. The way my team is using it is through forking. We fork the main file and then pull from and to it to update the code.
 >
 > Keaton Sant, Data Scientist at John Deere
 
@@ -48,7 +57,7 @@ _It signals that you are a programmer as well as an analyst._
 
 __Yes.__
 
-It feels weird at first but quickly becomes second nature. More bad news. Our pain will be short-lived because students primarily work in their own repositories. Do you use GitHub to work with other people or to coordinate your own work from multiple computers? If so, after you recover from the initial setup, Git will crush you again with merge conflicts. And this is not one-time pain, this could be a dull ache for a long time. The best remedy is prevention, but also understanding how to back out of tricky situations and tackle them on your own terms.
+It feels weird at first but quickly becomes second nature—more bad news. Our pain will be short-lived because students primarily work in their own repositories. Do you use GitHub to work with other people or to coordinate your own work from multiple computers? If so, after you recover from the initial setup, git will crush you again with merge conflicts. And this is not one-time pain; this could be a dull ache for a long time. The best remedy is prevention, but also understanding how to back out of tricky situations and tackle them on your own terms.
 
 Managing a project via Git/GitHub is much more like the Google Doc scenario and enjoys many of the same advantages. It is definitely more complicated than collaborating on a Google Doc, but this puts you in the right mindset. [ref](https://happygitwithr.com/big-picture.html)
 
@@ -66,7 +75,7 @@ If you are trying to get a job, then your Github space should be organized. Take
 - Make your landing page stand out by [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). Use [this guide](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1) for additional inspiration.
 - Track your work and share it with the world.
 - Organize and document your repositories. Here are some [great examples](https://github.com/matiassingers/awesome-readme)
-- Find a project you could support (long term goal).
+- Find a project you could support (long-term goal).
 
 ### Github's other tools
 
@@ -79,7 +88,7 @@ If you are trying to get a job, then your Github space should be organized. Take
 - [Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Github Actions](https://docs.github.com/en/actions) (I use [the peaceiris action for hugo](https://github.com/peaceiris/actions-hugo) for our [data science programming course at BYUI](https://byuistats.github.io/CSE250-Hathaway/) The R for Data Science book [does as well](https://github.com/hadley/r4ds/actions))
 
-## Your peronsal data projects work flow
+## Your personal data projects workflow
 
 You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during school. I would make sure that these personal projects are presentable. You want to demonstrate your creativity. You could use the following links to find a new data set. 
 
@@ -88,3 +97,5 @@ You don't need to make these projects complicated. These projects are built to s
 - [WorkoutWednesday](http://www.workout-wednesday.com/)
 - [Kaggle](https://www.kaggle.com/datasets)
 - [data.world](https://data.world/search?context=community&entryTypeLabel=dataset&q=free+data&type=all)
+
+## Let's go through the process with this [Github repo](https://github.com/hathawayj/gitandgithub)
