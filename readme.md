@@ -1,3 +1,5 @@
+# Git and Github for Data Science
+
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician. [Josh Wills](https://twitter.com/josh_wills/status/198093512149958656?s=20)
 
 The Darkside of that quote is real!  Data scientists don't program as well as software engineers.  Data scientists are also reasonably soft when it comes to understanding the larger field of statistical analysis. We can improve over time. However, our domain structure often demands that we don't specialize in the technical areas as we often scale up in other domains. If we did specialize, then we would be called statisticians or software engineers.
