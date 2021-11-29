@@ -17,7 +17,7 @@ The Darkside of that quote is real!  Data scientists don't program as well as so
 
 ## How do we demonstrate our data savviness and programming experience?
 
-__Github!__
+__Github!__ Data scientists need to demonstrate their coding experience and data depth. Github provides us the social space to demonstrate these skills.
 
 ![](data_programming.png)
 
