@@ -32,6 +32,7 @@ __Github!__
 
 - [Download Git](https://git-scm.com/)
 - [Getting the git workflow](https://rogerdudler.github.io/git-guide/)
+- [Cheatsheet PDF](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
 ![](https://miro.medium.com/max/1400/1*E4povWZ5H-K3OaguFQJ0IQ.png)
 
