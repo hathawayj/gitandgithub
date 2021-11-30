@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Git and Github for Data Science
 ---
 
