@@ -1,4 +1,8 @@
-# Git and Github for Data Science
+---
+layout: page
+title: Git and Github for Data Science
+---
+
 
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician. [Josh Wills](https://twitter.com/josh_wills/status/198093512149958656?s=20)
 
